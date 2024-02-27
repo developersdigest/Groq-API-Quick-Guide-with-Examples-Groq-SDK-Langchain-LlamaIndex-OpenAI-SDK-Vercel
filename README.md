@@ -10,17 +10,11 @@ For a step-by-step guide, watch the tutorial on YouTube that walks you through e
 ## Prerequisites
 
 Before you begin, make sure you have the following installed:
-- Node.js
-- npm or Yarn
-- Groq SDK
-- OpenAI SDK
-- Langchain
-- Llama Index
-- Vercel AI SDK
+- Node.js / Bun
 
 You'll also need API keys from:
 - [Groq Platform](https://platform.openai.com/api-keys)
-- [OpenAI](https://platform.openai.com/api-keys)
+- [OpenAI](https://platform.openai.com/api-keys) (For RAG Llamaindex example)
 
 ## Getting Started
 
