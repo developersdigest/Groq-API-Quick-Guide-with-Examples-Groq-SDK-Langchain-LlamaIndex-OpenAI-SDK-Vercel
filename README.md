@@ -27,15 +27,15 @@ You'll also need API keys from:
 To get started with the examples, clone this repository to your local machine:
 
 ```bash
-git clone [repository-url]
-cd [repository-name]
+git clone [[repository-url]](https://github.com/developersdigest/Groq-API-Quick-Guide-with-Examples-Groq-SDK-Langchain-LlamaIndex-OpenAI-SDK-Vercel)
+cd [Groq-API-Quick-Guide-with-Examples-Groq-SDK-Langchain-LlamaIndex-OpenAI-SDK-Vercel]
 ```
 
 Install the required dependencies for each example:
 
 ```bash
-cd [example-directory]
-npm install
+cd 1-groq-sdk
+bun install
 ```
 
 ## Examples
