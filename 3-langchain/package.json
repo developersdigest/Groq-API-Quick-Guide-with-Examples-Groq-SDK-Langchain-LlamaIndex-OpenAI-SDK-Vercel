@@ -1,0 +1,15 @@
+{
+  "name": "3-langchain",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@langchain/groq": "^0.0.1",
+    "langchain": "^0.1.22"
+  }
+}

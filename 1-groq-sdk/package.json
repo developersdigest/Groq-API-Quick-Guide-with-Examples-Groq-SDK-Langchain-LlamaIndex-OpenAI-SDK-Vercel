@@ -1,0 +1,14 @@
+{
+  "name": "1-groq-sdk",
+  "module": "index.js",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "groq-sdk": "^0.3.0"
+  }
+}

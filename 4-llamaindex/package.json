@@ -1,0 +1,14 @@
+{
+  "name": "4-llamaindex",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "llamaindex": "^0.1.17"
+  }
+}
